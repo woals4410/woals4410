@@ -30,5 +30,8 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woals4410)](https://solved.ac/woals4410)
+  <a href="https://solved.ac/woals4410">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=woals4410" alt="Solved.ac Profile">
+  </a>
 </p>
+
