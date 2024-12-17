@@ -29,6 +29,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
-<div align="center">
+<p align="center">
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woals4410)](https://solved.ac/woals4410)
-</div>
+</p>
