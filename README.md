@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center><h2>👩‍💻 Using & Studying ✏️</h2></div>
 <div align=center>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩‍💻 Using & Studying ✏️</h2>
+</div>
+
+<div align="center" style="margin: 0 auto; text-align: center;">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -25,3 +28,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
+    
