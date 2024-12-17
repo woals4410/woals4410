@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 <div>
   [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={woals4410})](https://solved.ac/{woals4410})
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=woals4410)](https://solved.ac/woals4410)
 </div>
