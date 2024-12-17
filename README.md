@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩‍💻 Baekjoon Online Judge 👩‍💻</h2>
 </div>
 <p align="center">
-  <a href="https://solved.ac/profile/woals4410">
+  <a href="[https://solved.ac/woals4410](https://solved.ac/profile/woals4410)">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=woals4410" alt="Solved.ac Profile">
   </a>
 </p>
