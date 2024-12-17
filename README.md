@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩‍💻 Using & Studying ✏️</h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📚 Using & Studying ✏️</h2>
 </div>
 
 <div align="center" style="margin: 0 auto; text-align: center;">
@@ -28,10 +28,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
+<br>
 
+<div align=center>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">👩‍💻 Baekjoon Online Judge 👩‍💻</h2>
+</div>
 <p align="center">
   <a href="https://solved.ac/woals4410">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=woals4410" alt="Solved.ac Profile">
+    <img src="http://mazandi.herokuapp.com/api?handle=woals4410&theme=dark"/>
   </a>
 </p>
 
