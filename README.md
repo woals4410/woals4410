@@ -30,6 +30,4 @@ Here are some ideas to get you started:
 </div>
 
 
-<div  align="center" style="margin: 0 auto; text-align: center;">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woals4410)](https://solved.ac/woals4410)
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=woals4410)](https://solved.ac/woals4410)
